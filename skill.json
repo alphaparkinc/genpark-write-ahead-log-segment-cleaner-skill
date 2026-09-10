@@ -1,0 +1,15 @@
+{
+  "name": "genpark-write-ahead-log-segment-cleaner-skill",
+  "version": "1.0.0",
+  "description": "Distributed Write-Ahead Log (WAL) and LSM segment cleaner compacting tombstones, eliminating stale updates, and reclaiming disk space.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "wal",
+    "segment-cleaner",
+    "lsm-tree",
+    "tombstone-compaction"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
